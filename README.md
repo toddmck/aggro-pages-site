@@ -7,7 +7,7 @@
 
 ### 🌟 You've successfully located the repo for AGGRO! 🌟
 
-## 🚀 Arkansas Gamers Government Responsibility Organization!
+## 🚀 Arkansas Gamers Government Responsibility Organization! 🚀
 
 **Show off your new skills and inspire others!**
 
