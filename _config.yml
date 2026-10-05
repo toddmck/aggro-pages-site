@@ -1,3 +1,5 @@
-theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 minima:
-  skin: dark # Or 'auto' to follow system settings   
+  skin: dark # Or 'auto' to follow system settings
